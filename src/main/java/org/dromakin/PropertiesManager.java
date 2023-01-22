@@ -69,9 +69,4 @@ public class PropertiesManager {
         return key;
     }
 
-
-    public static void main(String[] args) {
-
-    }
-
 }
